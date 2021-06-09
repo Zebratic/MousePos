@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MousePosForm", "MousePosForm.csproj", "{9B8DA8DB-EE48-45C1-AC2F-43C377C8FB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8DA8DB-EE48-45C1-AC2F-43C377C8FB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8DA8DB-EE48-45C1-AC2F-43C377C8FB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8DA8DB-EE48-45C1-AC2F-43C377C8FB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8DA8DB-EE48-45C1-AC2F-43C377C8FB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A1597B4-A0BD-411D-8903-B6A0BE4AA558}
+	EndGlobalSection
+EndGlobal
